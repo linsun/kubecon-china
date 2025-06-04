@@ -15,5 +15,5 @@ spec:
     backendRefs:
     - name: demo
       kind: Service
-      port: 8000
+      port: 80
 ---
