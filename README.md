@@ -1,5 +1,5 @@
 # gen-ai-demo
-Gen AI Demo with Kubernetes, Istio Ambient, Prometheus, Kiali etc
+Gen AI Demo with Kubernetes, Istio Ambient, Prometheus, Kiali etc. Source code is available at [https://github.com/linsun/gen-ai-demo/](https://github.com/linsun/gen-ai-demo/).
 
 ## Prerequisites
 
